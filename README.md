@@ -64,5 +64,5 @@ That is fine! Just download the latest release and install [Jupyter Lab](https:/
 ## Project Maintenance  
 New APIs when released by Anaplan will be added here ASAP. Contact anirudh@eliteepm.com for help or suggestions.  
  
-Feel free to raise issues within Github. Forks and Pull Requests also welcome. I only ask that you pay it forward :)  
+Feel free to raise issues within Github. Github Discussions are enabled. Forks and Pull Requests also welcome. I only ask that you pay it forward :)  
 Personal thanks to the excellent Binder project
