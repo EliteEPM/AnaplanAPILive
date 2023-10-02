@@ -14,7 +14,7 @@ Repo includes a Jupyter Notebook in the notebook folder and a Binder Link. The n
 
 Click the Launch Binder link to generate a live notebook environment  
 
-<span style="color:red">WARNING:</span>  
+<span style="color:red">⚠️ WARNING ⚠️</span>  
 This project is only for educational purposes. Elite EPM or Anaplan will not assume any liabilities. Do not enter production data or credentials into the environment. While Binder instances are ephemeral, they are always on shared computing environments. [Review the official Binder Usage guidelines](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html)
 
 ## Why was this created? And what APIs are covered
