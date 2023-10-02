@@ -60,3 +60,9 @@ That is fine! Just download the latest release and install [Jupyter Lab](https:/
 
 #### How to Navigate the notebook with Table Of Contents
 <img width="1000px" src="repo_images/navigation_example.gif">  
+
+## Project Maintenance  
+New APIs when released by Anaplan will be added here ASAP. Contact anirudh@eliteepm.com for help or suggestions.  
+ 
+Feel free to raise issues within Github. Forks and Pull Requests also welcome. I only ask that you pay it forward :)  
+Personal thanks to the excellent Binder project
