@@ -49,7 +49,14 @@ That is fine! Just download the latest release and install [Jupyter Lab](https:/
 * Access to an Anaplan Workspace and Model, preferably with Workspace Administrator
 
 ## Examples
+#### First run and authentication. Also demonstrates file editing
+<img width="1000px" src="repo_images/authentication_example.gif">  
 
+#### Run code example and filling in variables
+<img width="1000px" src="repo_images/run_code_example.gif">  
 
-## Tips & Tricks
-Binder icons and outlines. How to share binder
+#### Commenting and Uncommenting code
+<img width="1000px" src="repo_images/commenting_example.gif">  
+
+#### How to Navigate the notebook with Table Of Contents
+<img width="1000px" src="repo_images/navigation_example.gif">  
