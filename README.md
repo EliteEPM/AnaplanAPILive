@@ -1,5 +1,5 @@
 <p align="center">
-	<img width="200px" src="Anaplan API Live Logo.png">
+	<img width="200px" src="repo_images/Anaplan API Live Logo.png">
 </p>  
 <p align="center">
   <a href="https://www.mit.edu/~amini/LICENSE.md"><img alt="https://www.mit.edu/~amini/LICENSE.md" src="https://img.shields.io/badge/license-MIT-green"></a>
@@ -50,3 +50,6 @@ That is fine! Just download the latest release and install [Jupyter Lab](https:/
 
 ## Examples
 
+
+## Tips & Tricks
+Binder icons and outlines. How to share binder
