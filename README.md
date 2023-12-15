@@ -12,7 +12,7 @@ Ever wanted to play around with Anaplan APIs and get them to work in your projec
 
 Repo includes a Jupyter Notebook in the notebook folder and a Binder Link. The notebook can run all Anaplan APIs published as of September, 2023. The included Python code is easily human readable and requires little foreknowledge  
 
-Click the Launch Binder link to generate a live notebook environment  
+Click the [Launch Binder](https://mybinder.org/v2/gh/EliteEPM/AnaplanAPILive/v1.0.0?labpath=notebook) link to generate a live notebook environment  
 
 <span style="color:red">⚠️ WARNING ⚠️</span>  
 This project is only for educational purposes. Elite EPM or Anaplan will not assume any liabilities. Do not enter production data or credentials into the environment. While Binder instances are ephemeral, they are always on shared computing environments. [Review the official Binder Usage guidelines](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html)
